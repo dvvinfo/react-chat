@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f41a543d.css",
+    "main.js": "/static/js/main.4d0890f8.js",
+    "static/media/coc_game_ui_update.png": "/static/media/coc_game_ui_update.3cc92e28f8e1622833ce.png",
+    "static/media/Rubik.eot": "/static/media/Rubik.b5f43269630c8e7428e1.eot",
+    "static/media/Rubik.ttf": "/static/media/Rubik.0e9f6fc82246faec601b.ttf",
+    "static/media/Rubik.woff": "/static/media/Rubik.d147eb7742bb360aea53.woff",
+    "static/media/Rubik.woff2": "/static/media/Rubik.94d2e07e85ecab097754.woff2",
+    "index.html": "/index.html",
+    "static/media/arrow-1.svg": "/static/media/arrow-1.bb4dad217cd63066403f.svg",
+    "main.f41a543d.css.map": "/static/css/main.f41a543d.css.map",
+    "main.4d0890f8.js.map": "/static/js/main.4d0890f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f41a543d.css",
+    "static/js/main.4d0890f8.js"
+  ]
+}
